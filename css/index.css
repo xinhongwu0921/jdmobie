@@ -1,0 +1,17 @@
+#header{
+    display: flex;
+    background-color: red
+}
+#header .left{
+    width: 80px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#header .left .a{
+    background: url(../images/sprites.png) no-repeat 0 -110px 200px 200px;
+    width: 58px;
+    height: 21px;
+    display: block;
+}
